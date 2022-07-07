@@ -1,5 +1,15 @@
-<html>
+<!--
+
+Fixes:
+Category: Accessibility
+1. Document doesn't have a <title> element.
+2. <html> elements does not have a [lang] attribute.
+
+
+-->
+<html lang="en">
 <head>
+  <title>Test Page</title>
 </head>
 <body>
   Hello World!
