@@ -12,12 +12,14 @@ Category: Best Practices
 Category: SEO
 1. Does not have a <meta name="viewport"> tag with width or initial-scale. (Fixed)
 2. Document doesn't use legible font sizes. (Fixed)
+3. Document does not have a meta description. (Fixed)
 
 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Author: Elizabeth Abraham">
   <title>Test Page</title>
 </head>
 <body style="font-size: 15px;">
