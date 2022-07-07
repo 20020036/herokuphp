@@ -7,6 +7,7 @@ Category: Accessibility
 
 
 -->
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Test Page</title>
